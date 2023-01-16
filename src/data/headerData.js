@@ -1,4 +1,4 @@
-import resume from "../assets/pdf/resume.pdf";
+import resume from "../assets/pdf/Rohit_Nawani_Resume.pdf";
 import photo from "../assets/png/profile-pic (1).png";
 
 export const headerData = {
